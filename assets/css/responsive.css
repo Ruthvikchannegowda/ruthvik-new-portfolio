@@ -163,6 +163,11 @@ Description:
         line-height   : 36px;
         letter-spacing: 1px;
     }
+
+
+    .profile-img{
+border-radius: unset !important;
+    }
    .banner-social-wrap {
         text-align : center;
         margin-top : 7px;
@@ -200,13 +205,40 @@ Description:
         line-height: 45px;
     }
     
-    .owl-nav {
+    /* .owl-nav {
         position: absolute !important;
         top: auto !important;
         right: 0 !important;
         bottom: -20% !important;
         width: 100% !important;
         text-align: center !important;
+    } */
+
+
+    .da-thumbs .owl-nav {
+        position: absolute;
+        top: -10%;
+        right: 269px;
+    }
+
+    .footer-menu li{
+        font-size: 14px !important;
+    }
+
+
+    .da-thumbs .owl-nav > div {
+        height: 41px;
+        width: 39px;
+        background: transparent;
+        border: 1px solid #c8f31d;
+        text-align: center;
+        line-height: 45px;
+        border-radius: 4px;
+        color: #c8f31d;
+        font-size: 16px;
+        display: inline-block;
+        margin: 0 5px;
+        transition: all .3s;
     }
     .da-thumbs li{
         float: unset;
