@@ -42,3 +42,7 @@ $(".hover-notify").velocity('stop', true).velocity("fadeOut");
 				 $('.hexactive').velocity('stop', true).velocity('reverse').removeClass('hexactive');
 			});
 });
+
+
+
+

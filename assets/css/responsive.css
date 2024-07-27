@@ -164,6 +164,9 @@ Description:
         letter-spacing: 1px;
     }
 
+    .service-text h3{
+font-size: 22px;
+    }
 
     .profile-img{
 border-radius: unset !important;
