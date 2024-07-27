@@ -116,8 +116,24 @@ Description:
         margin-bottom: 50px;
     }
     .portfolio-filter li {
-        display: block;
+        display: flex;
         text-align: center;
+        justify-content: center;
+        align-items: center;
+        padding: 8px 34px;
+        line-height: 21px;
+        
+    }
+
+
+    .portfolio-filter::-webkit-scrollbar{
+        display: none;
+    }
+    .portfolio-filter{
+        display:flex;
+        overflow: scroll;
+        flex-wrap: nowrap;
+        gap: 12px;
     }
     .contact-page-area .row > div, 
     .map {
