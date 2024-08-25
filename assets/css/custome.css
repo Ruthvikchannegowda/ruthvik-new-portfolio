@@ -1021,3 +1021,12 @@ input[type="submit"]
 .pt-6{
   padding-top: 6rem;
 }
+
+
+.pb-6{
+  padding-bottom: 6rem;
+}
+
+.font-site{
+  font-family: 'Rubik', sans-serif !important;
+}

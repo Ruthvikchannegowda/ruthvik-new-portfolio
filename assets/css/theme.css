@@ -349,7 +349,7 @@ a.contact-btn:hover{
 
 
 .welcome__wrap1{
-    background: url(../img/bg/wlc-bg1.jpg);
+    background: url(/assets/img/bg-portfolio.png);
     background-size: cover;
     background-position: center
 }

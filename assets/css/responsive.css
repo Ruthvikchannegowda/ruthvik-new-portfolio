@@ -13,9 +13,9 @@ Description:
 ================+/+/+/+/+/+/+/+/+/=================
 */
 @media only screen and (min-width: 1400px) {
-    .single-welcome-area{
+    /* .single-welcome-area{
         height: 1000px;
-    }
+    } */
     .wlc-title h1{
         font-size: 80px;
         line-height: 90px
@@ -73,7 +73,7 @@ Description:
         top: 0
     }
     .welcome-area.inner {
-        padding: 100px 0 50px 0;
+        padding: 79px 0 31px 0;
     }
     .single-blog-section-description h2 {
         font-size: 18px;
@@ -233,6 +233,11 @@ border-radius: unset !important;
         text-align: center !important;
     } */
 
+
+    .single-portfolio-item2 {
+         height: 310px; 
+    }
+    
 
     .da-thumbs .owl-nav {
         position: absolute;

@@ -9,7 +9,7 @@ INNER PAGES CSS----->
 
 
 .welcome-area.inner {
-    padding: 150px 0 200px 0;
+    padding: 108px 0 75px 0;
 }
 
 .inner-wlc h2 {
@@ -328,6 +328,8 @@ span.single-blog-section-img-tag {
 }
 
 
+
+
 .ftc-inner-1{
     background: url(../img/project/ftc-inner-1.png)
 }
@@ -348,7 +350,10 @@ span.single-blog-section-img-tag {
 
 
 .wingpath-inner-1{
-    background: url(../img/project/wingpath-inner-1.png)
+    background: url(../img/project/wingpath-inner-1.png);
+   
+    background-size: cover;
+    
 }
 
 .wingpath-inner-2{
@@ -380,6 +385,60 @@ span.single-blog-section-img-tag {
 .wingpath-landing-1-inner-3{
     background: url(../img/project/wingpath-landing-1-inner-3.png)
 }
+
+
+.kapes-main{
+    background: url(/assets/img/project/kapes-acadamy.png);
+}
+
+.kapes-inner-1{
+    background:url(/assets/img/project/kapes\ inner-1.png) ;
+}
+
+.kapes-inner-2{
+    background:url(/assets/img/project/kapes-inner-2.png) ;
+}
+
+.kapes-inner-3{
+    background:url(/assets/img/project/kapes-inner-3.png) ;
+}
+
+
+.wingpath-commercial-pilot-main{
+    background: url(/assets/img/project/commercial-pilot-lp.png);
+}
+
+.wingpath-commercial-pilot-inner-1{
+    background:url(/assets/img/project/commercial-pilot-inner-1.png) ;
+}
+
+.wingpath-commercial-pilot-inner-2{
+    background:url(/assets/img/project/commercial-pilot-inner-2.png) ;
+}
+
+.wingpath-commercial-pilot-inner-3{
+    background:url(/assets/img/project/commercial-pilot-inner-3.png) ;
+}
+
+
+
+.tradient-trust-main{
+    background: url(/assets/img/project/Tradient-Trust-main.png);
+}
+
+.tradient-trust-inner-1{
+    background:url(/assets/img/project/Tradient-trust-inner-1.png) ;
+}
+
+.tradient-trust-inner-2{
+    background:url(/assets/img/project/tradient-trust-inner-2.png) ;
+}
+
+.tradient-trust-inner-3{
+    background:url(/assets/img/project/tradient-trust-inner-3.png) ;
+}
+
+
 .portfolio-bg-8{
     background: url(../img/project/02.jpg)
 }
@@ -531,7 +590,7 @@ height: 350px;
     height: 250px;
 }
 
-.proj-url:hover{
+.proj-url{
 text-decoration: underline solid 2px white;
 }
 
