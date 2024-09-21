@@ -439,12 +439,46 @@ span.single-blog-section-img-tag {
 }
 
 
-.portfolio-bg-8{
-    background: url(../img/project/02.jpg)
+
+
+.tradient-hyundai-main{
+    background: url(../img/project/tradient-hyundai-main.png);
 }
-.portfolio-bg-9{
-    background: url(../img/project/03.jpg)
+
+.tradient-hyundai-inner-1{
+    background: url(../img/project/tradient-hyundai-inner-1.png);
 }
+
+.tradient-hyundai-inner-2{
+    background: url(../img/project/tradient-hyundai-inner-2.png);
+}
+
+.tradient-hyundai-inner-3{
+    background: url(../img/project/tradient-hyundai-inner-3.png);
+}
+
+
+
+
+
+.kandala-main{
+    background: url(../img/project/kandala-main.png);
+}
+
+.kandala-inner-1{
+    background: url(../img/project/kandala-inner-1.png);
+}
+
+.kandala-inner-2{
+    background: url(../img/project/kandala-inner-2.png);
+}
+
+.kandala-inner-3{
+    background: url(../img/project/kandala-inner-3.png);
+}
+
+
+
 
 .portfolio-filter {
     margin: 0 0 50px;
